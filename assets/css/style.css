@@ -168,7 +168,7 @@ html {
 #main #aotuthan .aotuthan-heading {
     text-align: center; 
     margin-bottom: 45px;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2); !important
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2) !important; 
 }
 
 #main #aotuthan #aotuthan-content {
@@ -231,7 +231,7 @@ html {
 #main #aobaba .aobaba-heading {
     margin-bottom: 45px;
     text-align: center;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2); !important
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2) !important; 
 }
 
 #main #aobaba-content {
